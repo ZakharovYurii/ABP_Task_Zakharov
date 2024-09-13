@@ -1,0 +1,6 @@
+@ABP_Task_Zakharov_HostAddress = http://localhost:5261
+
+GET {{ABP_Task_Zakharov_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
